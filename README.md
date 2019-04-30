@@ -36,10 +36,14 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+
+- Open product page
+- Open Words War
+- View the second last picture
+- View the last picture
+- Open the last picture
+- View previous picture
+- Back to homepage
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
