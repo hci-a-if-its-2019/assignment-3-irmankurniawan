@@ -54,10 +54,24 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **Me** : pertama, buka halaman product
+1. **🙋‍♀️** : (she clicked on "Product" menu)
+1. **Me** : buka words war
+1. **🙋‍♀️** : (she clicked on "Words War" product)
+1. **Me** : terus, lihat gambar nomor dua dari terakhir
+1. **🙋‍♀️** : (she was little confused by how the scrolling works)
+1. **🙋‍♀️** : (she clicked on second last picture) iki? terus?
+1. **Me** : lihat gambar terakhir
+1. **🙋‍♀️** : (she clicked on the last picture)
+1. **Me** : terus, perbesar gambar terakhir
+1. **🙋‍♀️** : (participants had difficulty doing this instruction)
+1. **Me** : lihat gambar sebelumnya
+1. **🙋‍♀️** : (she clicked on the previous button)
+1. **Me** : close popup nya
+1. **🙋‍♀️** : (she clicked on the close button)
+1. **Me** : kembali ke halaman utama
+1. **🙋‍♀️** : (she clicked on the "Rendoru" menu)
+1. **Me** : oke, selesai
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
