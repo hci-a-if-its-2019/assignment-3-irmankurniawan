@@ -28,11 +28,14 @@
 
 #### a. Description of Participant 1
  - A girl, 21 years old
+ - College Student
  - Use internet for browsing and doing assignment
+ - Previous CI participant
 
 #### b. Description of Participant 2
- - 
- - 
+ - A man, about 31 years old
+ - Businness man
+ - Using the internet mainly for chat with his businness partners
  
 ### 2. Evaluation Script
 
@@ -45,13 +48,6 @@
 - Back to homepage
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
 1. **Me** : pertama, buka halaman product
@@ -65,7 +61,9 @@
 1. **🙋‍♀️** : (she clicked on the last picture)
 1. **Me** : terus, perbesar gambar terakhir
 1. **🙋‍♀️** : (participants had difficulty doing this instruction)
-1. **Me** : lihat gambar sebelumnya
+1. **🙋‍♀️** : (after few minutes, she clicked on main picture)
+1. **Me** : Nah itu
+1. **Me** : terus, lihat gambar sebelumnya
 1. **🙋‍♀️** : (she clicked on the previous button)
 1. **Me** : close popup nya
 1. **🙋‍♀️** : (she clicked on the close button)
@@ -80,10 +78,9 @@
  - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](image/HOMEPAGE.jpg)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
  - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -92,7 +89,7 @@
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](image/PRODUCT_PAGE.jpg)
 
  - **Reference**: 
  - **Feedback**: 
@@ -101,7 +98,7 @@
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](image/WW1.jpg)
 
  - **Reference**:  
  - **Feedback**: 
