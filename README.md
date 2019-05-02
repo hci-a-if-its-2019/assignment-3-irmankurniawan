@@ -27,7 +27,7 @@
 - Open Words War
 - View the second last picture
 - View the last picture
-- Open the last picture
+- Open(Full Screen) the last picture
 - View previous picture
 - Back to homepage
 
@@ -56,30 +56,63 @@
 1. **Me** : oke, selesai
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **Me** : selamat malam pak, langsung saja kita mulai
+1. **Me** : coba buka halaman produk
+1. 👨‍💻 : ini gabisa digeser ya pak?
+1. **Me** : iya pak enggak bisa, ini cuma desain saja
+1. 👨‍💻 : (mencet link "rendoru" (homepage))
+1. 👨‍💻 : ini tadi kenapa ya?
+1. **Me** : ini menu home pak jadi ngereload halaman sekarang gitu
+1. 👨‍💻 : (mencet menu "product")
+1. 👨‍💻 : ooh ini
+1. **Me** : disini kan ada daftar" produk dari website ini, terus coba bapak buka yg words ward.
+1. 👨‍💻 : (mencet words war) words waar
+1. **Me** : nah iya pak, berhasil ya pak
+1. **Me** : terus...
+1. 👨‍💻 : (mencet-mencet tombol 'Download')
+1. **Me** : belum bisa itu pak tombolnya.
+1. 👨‍💻 : ooh iya iya, bagus kok
+1. **Me** : jadi ini ada yang merah-merah ini nanti buat geser-geser gambarnya pak, kalau di web kan kita bisa 1. scroll pake mouse
+1. 👨‍💻 : ooh iya gituu
+1. **Me** : nah sekarang coba bapak buka gambar yang kedua dari terakhir
+1. 👨‍💻 : sebelum terakhiir...
+1. 👨‍💻 : (mencet kanan scrollbar *menggeser)
+1. 👨‍💻 : (mencet gambar yang diminta)
+1. **Me** : terus buka gambar yang terakhir
+1. 👨‍💻 : (mencet gambar terakhir)
+1. **Me** : bisa ya pak?
+1. 👨‍💻 : bisa bisa
+1. **Me** : terus coba buka yang terakhir lagi pak.
+1. 👨‍💻 : (mencet gambar terakhir)
+1. **Me** : terus coba perbesar gambarnya, yang terakhir pak.
+1. 👨‍💻 : (mencoba mencet-mencet scrollbar *menggeser)
+1. 👨‍💻 : (mencet gambar sebelumnya)
+1. 👨‍💻 : (tidak sengaja(?) mencet gambar yang besar, dan muncul popup gambar besar)
+1. **Me** : nah, besar itu pak. tapi itu yang gambar sebelumnya. coba di close dulu pak.
+1. 👨‍💻 : (mencet tombol close)
+1. 👨‍💻 : (mencet gambar terakhir, mencet gambar supaya fullscreen)
+1. **Me** : nah itu.
+1. **Me** : menurut bapak, kendalanya apa
+1. 👨‍💻 : saya bingung mas, gak tau kalau ini bisa diklik buat memperbesar kayak gini.
+1. **Me** : jadi menurut bapak bagaimana pak?
+1. 👨‍💻 : mungkin dikasih tanda mas, biar tau saja kalo ini bisa munculin gambar yang besar ini.
+1. **Me** : dikasih tombol gitu pak, bisa di klik?
+1. 👨‍💻 : ya gitu boleh, bisa bisa.
+1. **Me** : yaudah pak, sekarang coba kembali ke halaman utama
+1. 👨‍💻 : (mencet menu 'Rendoru')
+1. **Me** : iyaa, udah selesai pak. jadi begitu saja. terimakasih ya pak.
+1. 👨‍💻 : iya iya
 
 ### 4. Feedback and Incidence Analysis
-
-#### OBSERVATION 1
-![Prototype Screen 1](image/WW6.jpg)
-
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
-#### OBSERVATION 2
-![Prototype Screen 2](image/WW7.jpg)
+#### OBSERVATION 1
+![Prototype Screen 1](image/WW7.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Participant 1 (11), Participant 2 (30-32)
+ - **Feedback**: Negative
+ - **Incidence**: Participant can't figure how to do my instruction about opening the image in fullscreen
+ - **Reason**: there is no specific marker that the part can be clicked on
+ - **Resolution**: Add the 'fullscreen' button while hovering the main image.
  
  ---
 
@@ -87,11 +120,11 @@
 
 ### Sketch
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](image/sketsaa.jpg)
 
 ### Design Rationale
-`Coming soon`
+It's important to mark something clearly, I put the fullscreen button in the middle of the picture when user hovering cursor to that picture. So, the user will not feel confused and immediately understand how that component works
 
 ### High-Fidelity Interactive-Prototype
 
-`Coming soon`
+[Hi-Fi Prototype](image/prototype.pptx)
