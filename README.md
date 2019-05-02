@@ -1,30 +1,14 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
 [![Prototype Video](http://img.youtube.com/vi/QYgmT4g4S3Q/0.jpg)](https://youtu.be/QYgmT4g4S3Q)
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
  - A girl, 21 years old
@@ -80,7 +64,7 @@
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
-![Prototype Screen 1](image/HOMEPAGE.jpg)
+![Prototype Screen 1](image/WW6.jpg)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
  - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -89,7 +73,7 @@
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
 #### OBSERVATION 2
-![Prototype Screen 2](image/PRODUCT_PAGE.jpg)
+![Prototype Screen 2](image/WW7.jpg)
 
  - **Reference**: 
  - **Feedback**: 
@@ -97,34 +81,17 @@
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
  
-#### OBSERVATION 3
-![Prototype Screen 3](image/WW1.jpg)
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
 ![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+`Coming soon`
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+`Coming soon`
